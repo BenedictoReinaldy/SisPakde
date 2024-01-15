@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff1a4e97.css",
+    "main.js": "/static/js/main.efa1e6b4.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/doctor2.jpg": "/static/media/doctor2.da8f1c7746d55086f12b.jpg",
+    "static/media/doctor1.jpg": "/static/media/doctor1.66a5bb6b3c92e40185eb.jpg",
+    "static/media/doctor3.png": "/static/media/doctor3.2e739afd239fc19427c1.png",
+    "static/media/100.png": "/static/media/100.02a2de3814b3fbf165c4.png",
+    "static/media/paper.png": "/static/media/paper.e8fd0edf1c744f89e0b5.png",
+    "static/media/ukdclogo.png": "/static/media/ukdclogo.108d5a13b9c94b0b04ad.png",
+    "static/media/informatika.png": "/static/media/informatika.1738e3621698741357e9.png",
+    "index.html": "/index.html",
+    "main.ff1a4e97.css.map": "/static/css/main.ff1a4e97.css.map",
+    "main.efa1e6b4.js.map": "/static/js/main.efa1e6b4.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff1a4e97.css",
+    "static/js/main.efa1e6b4.js"
+  ]
+}
